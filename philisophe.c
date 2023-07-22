@@ -1,3 +1,6 @@
+// Taken from:
+// http://mfaverge.vvv.enseirb-matmeca.fr/pg204/
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
